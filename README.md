@@ -1,13 +1,13 @@
 # GIF Search App
 
-A modern React application for searching and discovering GIFs using the Giphy API. Browse trending GIFs or search for specific content with real-time results.
+A React application for browsing and searching GIFs using the Giphy API. View trending GIFs or search for specific content.
 
 ## Features
 
-- 🔥 **Trending GIFs**: Displays popular trending GIFs on initial load
-- 🔍 **Search Functionality**: Real-time search for GIFs by keyword
-- ⚡ **Fast Performance**: Built with React + TypeScript + Vite for optimal development experience
-- 📱 **Responsive Design**: Works seamlessly across different screen sizes
+- Display trending GIFs on initial load
+- Real-time search functionality
+- Built with React, TypeScript, and Vite
+- Integration with Giphy API
 
 ## Tech Stack
 
@@ -51,9 +51,9 @@ npm run dev
 
 ## Usage
 
-- **Browse Trending**: When you first load the app, you'll see trending GIFs
-- **Search GIFs**: Use the search bar to find GIFs by keyword
-- **Real-time Results**: Search results update as you type
+- Browse trending GIFs displayed on initial load
+- Use the search bar to find GIFs by keyword
+- Search results update in real-time as you type
 
 ## API Integration
 
